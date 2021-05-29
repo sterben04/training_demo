@@ -1,0 +1,71 @@
+item {
+  id: 1
+  name: 'Table'
+}
+
+item {
+  id: 2
+  name: 'Carousel'
+}
+
+item {
+  id: 3
+  name: 'Textarea'
+}
+
+item {
+  id: 4
+  name: 'Check Box'
+}
+
+item {
+  id: 5
+  name: 'Button'
+}
+
+item {
+  id: 6
+  name: 'Image'
+}
+
+item {
+  id: 7
+  name: 'Pagination'
+}
+
+item {
+  id: 8
+  name: 'Textbox'
+}
+
+item {
+  id: 9
+  name: 'Select'
+}
+
+item {
+  id: 10
+  name: 'Paragraph'
+}
+
+item {
+  id: 11
+  name: 'Radio Button'
+}
+
+item {
+  id: 12
+  name: 'Label'
+}
+
+item {
+  id: 13
+  name: 'Heading'
+}
+
+item {
+  id: 14
+  name: 'Link'
+}
+
+
